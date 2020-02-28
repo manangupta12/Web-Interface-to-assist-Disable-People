@@ -9,5 +9,9 @@ taking inputs in the form of Gestures / Speech.
 * `Security System`
 * `Object Recognition`
 
-![ Website Layout ]
-(https://octodex.github.com/images/yaktocat.png)
+### Based on different types of disabilities, the Web App is given an option to choose the disability type in the beginning and proceed to the best experience. Disability is mainly classified into 4 types -
+
+* Blind
+* Mute
+* Deaf
+* Crippled
