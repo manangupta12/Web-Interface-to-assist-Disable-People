@@ -8,3 +8,6 @@ taking inputs in the form of Gestures / Speech.
 * Providing Speech based `Feedback System`.
 * `Security System`
 * `Object Recognition`
+
+![ Website Layout ]
+("https://octodex.github.com/images/yaktocat.png")
