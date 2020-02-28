@@ -10,4 +10,4 @@ taking inputs in the form of Gestures / Speech.
 * `Object Recognition`
 
 ![ Website Layout ]
-("https://octodex.github.com/images/yaktocat.png")
+(https://octodex.github.com/images/yaktocat.png)
